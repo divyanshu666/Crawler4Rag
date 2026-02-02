@@ -29,7 +29,7 @@ A powerful and intelligent web crawling application that discovers and extracts 
 git clone https://github.com/NileshMete/web-crawler-app--1-.git
 cd smart-web-crawler
 ```
-
+divanyashu contirubution
 2. Install dependencies:
 ```bash
 pnpm install
